@@ -1,4 +1,4 @@
-baseURL = "https://linuxmintpl.github.io/"
+baseURL = "https://linuxmintpl.github.io/blog/"
 languageCode = "en-us"
 title = "Blog LinuxMint.pl"
 theme = "minimal"
