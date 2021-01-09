@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Micros on Blog o niczym</title>
+    <link>https://blog.linuxmint.pl/micro/</link>
+    <description>Recent content in Micros on Blog o niczym</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>PL-pl</language>
+    <lastBuildDate>Mon, 07 Dec 2020 00:47:02 +1100</lastBuildDate><atom:link href="https://blog.linuxmint.pl/micro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://blog.linuxmint.pl/micro/wine/</link>
+      <pubDate>Mon, 07 Dec 2020 00:47:02 +1100</pubDate>
+      
+      <guid>https://blog.linuxmint.pl/micro/wine/</guid>
+      <description>Wine made from grapes infected by fungi?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.linuxmint.pl/micro/word_puzzle/</link>
+      <pubDate>Fri, 10 Nov 2017 19:03:00 +1100</pubDate>
+      
+      <guid>https://blog.linuxmint.pl/micro/word_puzzle/</guid>
+      <description>A friend told me about Su Hui&amp;rsquo;s Star Gauge. It is is a matrix poem composed in the 4th century by the Chinese poetess Su Hui. The characters are arranged in a 29x29 matrix. The submatrices can be read in different directions, producing (apparently) 3000 poems.</description>
+    </item>
+    
+  </channel>
+</rss>

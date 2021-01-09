@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>general science on Blog o niczym</title>
+    <link>https://blog.linuxmint.pl/tags/general-science/</link>
+    <description>Recent content in general science on Blog o niczym</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>PL-pl</language>
+    <lastBuildDate>Fri, 10 Nov 2017 22:06:25 +1100</lastBuildDate><atom:link href="https://blog.linuxmint.pl/tags/general-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The ingenious sundial of Professor Moppert</title>
+      <link>https://blog.linuxmint.pl/posts/sundial/</link>
+      <pubDate>Fri, 10 Nov 2017 22:06:25 +1100</pubDate>
+      
+      <guid>https://blog.linuxmint.pl/posts/sundial/</guid>
+      <description>&lt;p&gt;Installed on the northern wall of the Monash University student centre (Melbourne) is a curious geometrical object. If you don’t pay close attention, you might think it’s just a decorative sculpture. But it is actually a functional sundial — conceived and constructed by the mathematician Carl Moppert in the 80’s. This design appears to be unique. I browsed through many photos on Instagram tagged with #sundial, and I couldn’t find another one that looks quite like it.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,5 @@
+{{ if eq .Section "posts" }}
+    {{ .Render "list" }} 
+{{ else if eq .Section "micro" }}
+    {{ .Render "list_micro" }}
+{{ end }}

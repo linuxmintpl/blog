@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog o niczym</title>
+    <link>https://blog.linuxmint.pl/</link>
+    <description>Recent content on Blog o niczym</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>PL-pl</language>
+    <lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.linuxmint.pl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About this site (a tutorial)</title>
+      <link>https://blog.linuxmint.pl/about_site/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.linuxmint.pl/about_site/</guid>
+      <description>I started this website in 2018, because I wanted to collect all my content in one single place. I decided to built it with simple tools, so I could understand how everything works, and fix problems if needed. It&amp;rsquo;s a hobby like how some people like to build their own kitchens. Lots of tutorials are available on building personal websites, but I still want to write my own, because when I got started, I could never find one that explained every step needed to build a complete website.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.linuxmint.pl/micro/wine/</link>
+      <pubDate>Mon, 07 Dec 2020 00:47:02 +1100</pubDate>
+      
+      <guid>https://blog.linuxmint.pl/micro/wine/</guid>
+      <description>Wine made from grapes infected by fungi?</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://blog.linuxmint.pl/about/</link>
+      <pubDate>Sun, 04 Mar 2018 09:45:28 +1100</pubDate>
+      
+      <guid>https://blog.linuxmint.pl/about/</guid>
+      <description>The painting in the background is 4 doubles frames, traits minces by François Morellet (Centre Pompidou, Paris).
+   I&amp;rsquo;m a research scientist working in the tech industry. My current research is focused on artificial intelligence and biomedical image analysis. I received my Ph.D. degree from the Department of Cognitive Science of University of California San Diego in 2008. In the same year, I moved to Melbourne to work for Monash University.</description>
+    </item>
+    
+    <item>
+      <title>The ingenious sundial of Professor Moppert</title>
+      <link>https://blog.linuxmint.pl/posts/sundial/</link>
+      <pubDate>Fri, 10 Nov 2017 22:06:25 +1100</pubDate>
+      
+      <guid>https://blog.linuxmint.pl/posts/sundial/</guid>
+      <description>&lt;p&gt;Installed on the northern wall of the Monash University student centre (Melbourne) is a curious geometrical object. If you don’t pay close attention, you might think it’s just a decorative sculpture. But it is actually a functional sundial — conceived and constructed by the mathematician Carl Moppert in the 80’s. This design appears to be unique. I browsed through many photos on Instagram tagged with #sundial, and I couldn’t find another one that looks quite like it.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.linuxmint.pl/micro/word_puzzle/</link>
+      <pubDate>Fri, 10 Nov 2017 19:03:00 +1100</pubDate>
+      
+      <guid>https://blog.linuxmint.pl/micro/word_puzzle/</guid>
+      <description>A friend told me about Su Hui&amp;rsquo;s Star Gauge. It is is a matrix poem composed in the 4th century by the Chinese poetess Su Hui. The characters are arranged in a 29x29 matrix. The submatrices can be read in different directions, producing (apparently) 3000 poems.</description>
+    </item>
+    
+  </channel>
+</rss>

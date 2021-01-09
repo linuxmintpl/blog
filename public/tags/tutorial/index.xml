@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorial on Blog o niczym</title>
+    <link>https://blog.linuxmint.pl/tags/tutorial/</link>
+    <description>Recent content in tutorial on Blog o niczym</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>PL-pl</language>
+    <lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.linuxmint.pl/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About this site (a tutorial)</title>
+      <link>https://blog.linuxmint.pl/about_site/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.linuxmint.pl/about_site/</guid>
+      <description>I started this website in 2018, because I wanted to collect all my content in one single place. I decided to built it with simple tools, so I could understand how everything works, and fix problems if needed. It&amp;rsquo;s a hobby like how some people like to build their own kitchens. Lots of tutorials are available on building personal websites, but I still want to write my own, because when I got started, I could never find one that explained every step needed to build a complete website.</description>
+    </item>
+    
+  </channel>
+</rss>

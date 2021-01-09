@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.linuxmint.pl/about_site/</loc>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.linuxmint.pl/tags/aws/</loc>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.linuxmint.pl/</loc>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.linuxmint.pl/tags/golang/</loc>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.linuxmint.pl/tags/hugo/</loc>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.linuxmint.pl/tags/</loc>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.linuxmint.pl/tags/tutorial/</loc>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.linuxmint.pl/micro/wine/</loc>
+    <lastmod>2020-12-07T00:47:02+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.linuxmint.pl/tags/link/</loc>
+    <lastmod>2020-12-07T00:47:02+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.linuxmint.pl/micro/</loc>
+    <lastmod>2020-12-07T00:47:02+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.linuxmint.pl/about/</loc>
+    <lastmod>2018-03-04T09:45:28+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.linuxmint.pl/tags/general-science/</loc>
+    <lastmod>2017-11-10T22:06:25+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.linuxmint.pl/tags/math/</loc>
+    <lastmod>2017-11-10T22:06:25+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.linuxmint.pl/posts/</loc>
+    <lastmod>2017-11-10T22:06:25+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.linuxmint.pl/posts/sundial/</loc>
+    <lastmod>2017-11-10T22:06:25+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.linuxmint.pl/micro/word_puzzle/</loc>
+    <lastmod>2017-11-10T19:03:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.linuxmint.pl/tags/word-play/</loc>
+    <lastmod>2017-11-10T19:03:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.linuxmint.pl/categories/</loc>
+  </url>
+  
+</urlset>

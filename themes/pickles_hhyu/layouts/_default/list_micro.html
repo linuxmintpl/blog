@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+{{ if isset .Site.Taxonomies "tags" }}
+    {{ $mytag := .Title }}
+    {{ $n := .Param "micropaginate" }}
+    {{ range $index, $page := (.Paginate (where .Data.Pages "Type" "micro") $n).Pages }}
+        {{ if ne $index 0 }}
+        {{ end }}
+        {{ .Render "li_micro" }}
+    {{ end }}
+{{ else }}
+    {{ range $index, $page := (.Paginate (where .Site.RegularPages "Type" "micro")).Pages }}
+        {{ if ne $index 0 }}
+        {{ end }}
+        {{ .Render "li_micro" }}
+    {{ end }}
+{{ end }}
+{{ partial "pagination.html" .Paginator }}
+{{ partial "siteinfo.html" . }}
+{{ partial "footer.html" . }}
